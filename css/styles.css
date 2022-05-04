@@ -1,0 +1,30 @@
+/* My Awesome Styles */
+
+/* Doodle Stage */
+#stage {
+  height: 300px;
+  width: 600px;
+}
+
+/* SVG elements */
+#capG {
+  fill: white;
+}
+
+#lowerG {
+  fill: white;
+}
+
+#letterL {
+  fill: white;
+}
+
+#letterE {
+  fill: white;
+}
+
+#lowMass {
+}
+
+#highMass {
+}
